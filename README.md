@@ -6,7 +6,7 @@ _**Bu bot 10neferden tutmuş 20000 neferecen tağ etmə gücüne sahibdir !**_
 - Telegram Kitabxana: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/DBMBOSSdu313/MentionAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]((https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/MentionAllBot)
 
 ### 🎯 Kredit ve başqaları
 - [Me](https://github.com/AnjanaMadu) for this Project ;)
